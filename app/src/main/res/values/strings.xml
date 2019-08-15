@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NimbleWirelessTask</string>
+    <string name="user_name">UserName</string>
+    <string name="pass_word">Password</string>
+    <string name="mobile_no">MobileNo</string>
+    <string name="email">Email</string>
+    <string name="sign_up">SignUp</string>
+    <string name="sign_in">SignIn</string>
+    <string name="log_in">Login</string>
+</resources>

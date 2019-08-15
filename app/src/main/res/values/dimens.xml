@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="activity_full_padding">20dp</dimen>
+    <dimen name="view_padding">20dp</dimen>
+</resources>
